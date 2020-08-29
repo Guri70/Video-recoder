@@ -1,0 +1,52 @@
+<resources>
+
+    <dimen name="text_sub">16sp</dimen>
+    <dimen name="text">14sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_min">10sp</dimen>
+    <dimen name="text_heading">18sp</dimen>
+    <dimen name="text_mid">20sp</dimen>
+    <dimen name="text_big">24sp</dimen>
+    <dimen name="text_extra_large">30sp</dimen>
+
+    <dimen name="margin_ten">10dp</dimen>
+    <dimen name="margin_seven">7dp</dimen>
+    <dimen name="margin_eight">8dp</dimen>
+    <dimen name="margin_twelve">12dp</dimen>
+    <dimen name="margin_thirteen">13dp</dimen>
+    <dimen name="margin_fifteen">15dp</dimen>
+    <dimen name="margin_twenty">20dp</dimen>
+    <dimen name="margin_twenty_five">25dp</dimen>
+    <dimen name="margin_thirty">30dp</dimen>
+    <dimen name="margin_forty">40dp</dimen>
+    <dimen name="margin_fifty">50dp</dimen>
+    <dimen name="margin_sixty">60dp</dimen>
+
+    <dimen name="margin_one">1dp</dimen>
+    <dimen name="margin_two">2dp</dimen>
+    <dimen name="margin_three">3dp</dimen>
+    <dimen name="margin_five">5dp</dimen>
+
+    <dimen name="elevation_seven">7dp</dimen>
+
+    <dimen name="padding_one">1dp</dimen>
+    <dimen name="padding_two">2dp</dimen>
+    <dimen name="padding_three">3dp</dimen>
+    <dimen name="padding_four">4dp</dimen>
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="padding_seven">7dp</dimen>
+    <dimen name="padding_eight">8dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="padding_twelve">12dp</dimen>
+    <dimen name="padding_thirteen">13dp</dimen>
+    <dimen name="padding_fourteen">14dp</dimen>
+    <dimen name="padding_fifteen">15dp</dimen>
+    <dimen name="padding_twenty">20dp</dimen>
+    <dimen name="padding_twenty_five">25dp</dimen>
+    <dimen name="padding_thirty">30dp</dimen>
+    <dimen name="padding_forty">40dp</dimen>
+    <dimen name="padding_seventeen">17dp</dimen>
+
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+</resources>
