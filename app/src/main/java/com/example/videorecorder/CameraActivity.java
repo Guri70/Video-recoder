@@ -1,52 +1,23 @@
 package com.example.videorecorder;
 
-import androidx.annotation.NonNull;
-import androidx.annotation.RequiresApi;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.Manifest;
-import android.app.Dialog;
 import android.content.ContentValues;
-import android.content.Context;
-import android.content.ContextWrapper;
-import android.content.Intent;
-import android.content.res.AssetFileDescriptor;
-import android.media.MediaScannerConnection;
 import android.net.Uri;
-import android.os.AsyncTask;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.CountDownTimer;
-import android.os.Environment;
-import android.os.PowerManager;
 import android.provider.MediaStore;
-import android.provider.SyncStateContract;
-import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.WindowManager;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.videorecorder.base.BaseActivity;
-import com.example.videorecorder.util.CameraHelper;
 import com.example.videorecorder.util.CountUpTimer;
 
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.UUID;
 
 import butterknife.BindView;
 import butterknife.OnClick;
-import butterknife.internal.Constants;
 import permissions.dispatcher.NeedsPermission;
 import permissions.dispatcher.RuntimePermissions;
 
